@@ -1,5 +1,4 @@
 # Redbus-Data-Scraping-with-Selenium-Dynamic-Filtering-using-Streamlit
-# *Data Scraping and Dynamic Filtering of Redbus Travel Data with Streamlit*
 
 ## *Project Overview*
 This project, titled *"Redbus Data Scraping and Filtering Application,"* leverages web scraping and data visualization to transform bus travel data for improved analysis and decision-making in the transportation sector. By utilizing Selenium for web scraping, this project automates the extraction of key information from Redbus (e.g., bus routes, schedules, prices, and seat availability) and makes it available in a user-friendly format through a Streamlit web application. The aim is to enhance the efficiency of operational planning and provide valuable insights to stakeholders within the transportation industry.
@@ -37,4 +36,4 @@ The project’s Streamlit application acts as a simplified, interactive Redbus i
 - *Web Scraping*: selenium, time
 
 This project demonstrates practical expertise in web scraping, data storage, and application deployment for real-time data access, offering powerful capabilities in the area of data-driven transportation analysis.
-![Project Image](https://github.com/PraneshxD/Redbus-Data-Scraping-with-Selenium-Dynamic-Filtering-using-Streamlit/blob/main/RedBus_Project.img.jpg)
+![Project Image](https://github.com/PraneshxD/Redbus-Data-Scraping-with-Selenium-Dynamic-Filtering-using-Streamlit/blob/main/Redbus.jpg)
